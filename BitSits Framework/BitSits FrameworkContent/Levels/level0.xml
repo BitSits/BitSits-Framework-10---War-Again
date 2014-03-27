@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="GameDataLibrary.LevelData">
+    <Rectangles>
+      <Item>
+        <Position>129 462</Position>
+        <Width>258</Width>
+        <Height>94</Height>
+        <Rotation>0</Rotation>
+      </Item>
+      <Item>
+        <Position>296 526</Position>
+        <Width>258</Width>
+        <Height>94</Height>
+        <Rotation>0</Rotation>
+      </Item>
+
+      <Item>
+        <Position>372 248</Position>
+        <Width>299</Width>
+        <Height>50</Height>
+        <Rotation>0</Rotation>
+      </Item>
+
+      <Item>
+        <Position>677 465</Position>
+        <Width>219</Width>
+        <Height>50</Height>
+        <Rotation>0</Rotation>
+      </Item>
+      <Item>
+        <Position>711 276</Position>
+        <Width>219</Width>
+        <Height>50</Height>
+        <Rotation>0</Rotation>
+      </Item>
+    </Rectangles>
+    <Triangles></Triangles>
+    <Circles></Circles>
+
+    <Ground>
+      0 0
+      100 500
+      700 400
+    </Ground>
+    
+    <WaterLevel>600</WaterLevel>
+  </Asset>
+</XnaContent>
