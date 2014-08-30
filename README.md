@@ -1,4 +1,4 @@
-Squares Vs Triangles
+War Again [Squares Vs Triangles]
 ===
 The idea of the game was inspired from [Jon klassen](http://www.burstofbeaden.com/)‘s art [squarestrianglesatsea.jpg](http://www.burstofbeaden.com/squarestrianglesatsea.jpg) and [shapewarsweb2.jpg](http://www.burstofbeaden.com/shapewarsweb2.jpg).
 
